@@ -1,6 +1,12 @@
 # NDim
 Visualise higher dimensional cubes
 
-Use the number keys 0 through 9 to visuallise hyper cubes from 0D to 9D
+# Screenshot
+![Alt text](res/screenshot.PNG?raw=true)
 
-Use the mouse to rotate around the hyper cube
+# Controls
+  * Use the number keys 0 through 9 to visuallise hyper cubes from 0D to 9D
+  * Use the mouse to rotate around the hyper cube
+# Dependencies
+  * Processing
+  * PeasyCam
